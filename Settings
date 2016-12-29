@@ -1,0 +1,9 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+    "highlight_modified_tabs": true,
+    "show_line_endings": true,
+    "fade_fold_buttons": false,
+    "draw_minimap_border": true,
+    "always_show_minimap_viewport": true,
+}
